@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "nombre": "Marcos",
+    "apellido": "Rivas",
+    "alias": "marcus",
+    "telefono": "0961 365 081",
+    "email": "marcusrivas@outlook.com",
+    "direccion": "Paraguari N 405",
+    "fechaCreacion": ""
+  },
+  {
+    "id": "2",
+    "nombre": "Cristhian",
+    "apellido": "Benitez",
+    "alias": "rubia",
+    "telefono": "0000000",
+    "email": "rubita@outlook.com",
+    "direccion": "Ita N 445",
+    "fechaCreacion": ""
+  },
+  {
+   "id": "3",
+    "nombre": "Ana",
+    "apellido": "Peralta",
+    "alias": "ani",
+    "telefono": "111111",
+    "email": "anita@outlook.com",
+    "direccion": "San Lorenzo N 445",
+    "fechaCreacion": ""
+  },
+  {
+    "id": "4",
+    "nombre": "Pablo",
+    "apellido": "Perez",
+    "alias": "pablito",
+    "telefono": "222222",
+    "email": "pablito@outlook.com",
+    "direccion": "San Lorenzo N 154",
+    "fechaCreacion": ""
+  }
+]
